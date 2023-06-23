@@ -10,7 +10,7 @@ const Footer = () => {
                         <hr className='text-white bg-white align-items-center'style={{height:"2px", borderWidth: "0", width:"100%"}} />
                     </article>
                     <div className='col-md px-5'>
-                        <img src="https://res.cloudinary.com/oluwaloni/image/upload/v1666784614/footer.png" />
+                        <img src="https://res.cloudinary.com/oluwaloni/image/upload/v1666784614/footer.png" alt="" />
                         <p>Your natural candle made for<br /> your home and for your wellness</p>
                     </div>
 

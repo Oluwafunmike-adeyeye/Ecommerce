@@ -16,7 +16,7 @@ function Testimonial() {
 
             <div className="d-flex justify-content-around">
                 <div className="card text-center mb-5" style={{width: "350px", height:"295px"}}>
-                    <img src={imgimg3} className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
+                    <img src={imgimg3} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
                     <img src={star} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "145px", height: "24px"}}/>
                     <div className="card-body">
                         <h6 className="card-text">“I love it! No more air<br /> freshener”</h6>
@@ -25,7 +25,7 @@ function Testimonial() {
                 </div>
 
                 <div className="card text-center" style={{width: "350px", height:"295px"}}>
-                    <img src={imgimg2} className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
+                    <img src={imgimg2} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
                     <img src={star2} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "145px", height: "24px"}}/>
                     <div className="card-body">
                         <h6 className="card-text">“Recommended for <br />everyone”</h6>
@@ -34,7 +34,7 @@ function Testimonial() {
                 </div>
 
                 <div className="card text-center" style={{width: "350px", height:"295px"}}>
-                    <img src={imgimg1} className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
+                    <img src={imgimg1} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "84px", height:"84px"}} />
                     <img src={star} alt="" className="img-fluid mx-auto d-block mt-3" style={{width: "145px", height: "24px"}}/>
                     <div className="card-body">
                         <h6 className="card-text">“Looks very natural, the <br />smell is awesome”</h6>

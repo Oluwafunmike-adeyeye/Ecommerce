@@ -23,6 +23,7 @@ function ProductBenefit() {
                 <div classname='candleimage pb-5'>
                     <img className="px-5 py-5 mx-5"
                     src={imagecandle}
+                    alt=""
                     style={{width:"540px"}}
                     />
                 </div>

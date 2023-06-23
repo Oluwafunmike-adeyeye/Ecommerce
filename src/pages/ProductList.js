@@ -65,6 +65,24 @@ const ProductList = () => {
                             <Product imageUrl="https://res.cloudinary.com/oluwaloni/image/upload/v1666781218/imagethe.png" productName="Banana" price="$15.40" />
                         </Link>
                     </div>
+
+                    <div className='col-md'>
+                        <Link to="/productdetails" className='text-decoration-none text-black'>
+                            <Product imageUrl="https://res.cloudinary.com/oluwaloni/image/upload/v1666781218/imagethe.png" productName="Banana" price="$15.40" />
+                        </Link>
+                    </div>
+
+                    <div className='col-md'>
+                        <Link to="/productdetails" className='text-decoration-none text-black'>
+                            <Product imageUrl="https://res.cloudinary.com/oluwaloni/image/upload/v1666781140/image1_.png" productName="Apple" price="$11.80" />
+                        </Link>
+                    </div>
+
+                    <div className='col-md'>
+                        <Link to="/productdetails" className='text-decoration-none text-black'>
+                            <Product imageUrl="https://res.cloudinary.com/oluwaloni/image/upload/v1666781140/image11.png" productName="Cinnamon" price="$11.20" /> 
+                       </Link>
+                    </div>
                 </div>
             </div>
         </div>

@@ -12,7 +12,7 @@ const ProductDetails = () => {
             <div className="product text-center mb-5">
                 <div clasName="row">
                     <div className="col-md col-6 mt-5">
-                        <img src={imageproduct} style={{backgroundColor: "#F7F8FA"}} />
+                        <img src={imageproduct} alt="" style={{backgroundColor: "#F7F8FA"}} />
                         <p className="mt-3">All hand-made with natural soy wax, Candleaf is <br />made for your pleasure moments.</p>
                         <span className='mt-3 fw-bold mb-5' style={{color:"#56B280"}}>🚚 FREE SHIPPING</span>
                     </div>
