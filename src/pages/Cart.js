@@ -9,7 +9,7 @@ const Cart  = () => {
         <div>
             <Navbar />
             <div className="text-center">
-                <h3 className="text-center">Your cart items</h3>
+                <h3 className="text-center">Your Cart Items</h3>
                 <Link to="/" className='text-success'>
                     Back to shopping
                 </Link>
