@@ -19,7 +19,7 @@ const ProductDetails = () => {
 
                     <div className="col-md col-6 mt-5">
                             <div className="col-4">
-                                <h4>$9.99</h4>
+                                <h4>$10.69</h4>
                             </div>
                             <div className="col-8">
                                 
